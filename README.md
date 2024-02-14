@@ -95,5 +95,6 @@ Workflow для всех остальных типов задач:
 
 ## Выгруженные схемы Workflow:
 
-* [bug workflow](https://github.com/DemoniumBlack/fedorchukds-devops-33-22/blob/main/Workflows/Bug.xml)
+* [bug workflow](https://github.com/RikLedger/09-ci-01-intro/blob/main/Workflows%20/Bug.xml)
 * [other workflow](https://github.com/DemoniumBlack/fedorchukds-devops-33-22/blob/main/Workflows/Other.xml)
+
